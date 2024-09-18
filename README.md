@@ -23,14 +23,15 @@ This script is intended for educational and testing purposes only. Use it exclus
 This PowerShell script simulates key behaviors of the WannaCry ransomware for educational and testing purposes. It is designed to help cybersecurity professionals test and validate the effectiveness of Endpoint Detection and Response (EDR) products and security controls in detecting and responding to ransomware-like activities.
 
 Important: Run this script only in a secure, isolated environment (e.g., a virtual machine specifically set up for testing). Do not run on production systems or systems containing important or sensitive data.
-Features
 
-    Simulates exploitation of vulnerabilities (EternalBlue exploit).
-    Demonstrates execution via Windows Management Instrumentation (WMI).
-    Emulates worm-like behavior by scanning for network shares.
-    Simulates file encryption impact on the user's Documents directory, including hidden folders.
-    Includes a cleanup function to revert changes made during the simulation.
-    Provides detailed logging of actions performed for analysis.
+# Features
+
+    - Simulates exploitation of vulnerabilities (EternalBlue exploit).
+    - Demonstrates execution via Windows Management Instrumentation (WMI).
+    - Emulates worm-like behavior by scanning for network shares.
+    - Simulates file encryption impact on the user's Documents directory, including hidden folders.
+    - Includes a cleanup function to revert changes made during the simulation.
+    - Provides detailed logging of actions performed for analysis.
 
 # MITRE ATT&CK Framework Mapping
 
