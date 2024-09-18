@@ -14,15 +14,15 @@
     Specifies the maximum number of files to simulate encryption on.
 
 .EXAMPLE
-    .\WannaCrySimulation.ps1
+    ./WannaCrySimulation.ps1
 
     Runs the simulation.
 
-    .\WannaCrySimulation.ps1 -CleanUp
+    ./WannaCrySimulation.ps1 -CleanUp
 
     Runs the cleanup process to revert changes.
 
-    .\WannaCrySimulation.ps1 -MaxFiles 5
+    ./WannaCrySimulation.ps1 -MaxFiles 5
 
     Runs the simulation, encrypting up to 5 files.
 
