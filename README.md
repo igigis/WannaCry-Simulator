@@ -1,7 +1,8 @@
 # WannaCry Ransomware Simulation Script
 
 Disclaimer: This script is intended for educational and testing purposes only. Use it exclusively in a controlled, isolated environment (e.g., a virtual machine). The author and contributors are not responsible for any misuse or damage caused by this script.
-Table of Contents
+
+# Table of Contents
 
     Overview
     Features
