@@ -115,6 +115,6 @@ The author and contributors of this script are not responsible for any direct or
 # Use at Your Own Risk
 
 By using this script, you acknowledge that you understand the risks involved and agree to use it responsibly and ethically.
-License
+# License
 
 This project is licensed under the MIT License.
