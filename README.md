@@ -75,13 +75,13 @@ Optional parameters:
 
     Follow the on-screen prompts to confirm execution.
 
-Cleaning Up After the Simulation
+# Cleaning Up After the Simulation
 
 To revert the changes made by the simulation:
 
-powershell
+    powershell
 
-./WannaCrySimulation.ps1 -CleanUp
+        ./WannaCrySimulation.ps1 -CleanUp
 
 Parameters
 
