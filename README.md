@@ -56,6 +56,7 @@ The script's actions are mapped to the MITRE ATT&CK framework to align simulated
 # Usage
 
 Set the execution policy to allow script execution (if not already set):
+
         Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Running the Simulation
